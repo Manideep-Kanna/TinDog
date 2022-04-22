@@ -107,7 +107,7 @@ p{
     margin:5% 3%;
 }
 
-@media (max-width:767px) {
+@media (max-width:1102px) {
     .dog-image{
         position: static;
         transform: rotate(0);
